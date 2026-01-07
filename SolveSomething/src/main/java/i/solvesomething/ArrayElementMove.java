@@ -1,4 +1,4 @@
-package me.solvesomething;
+package i.solvesomething;
 
 public class ArrayElementMove {
 
