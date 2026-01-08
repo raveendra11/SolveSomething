@@ -1,4 +1,4 @@
-package org.example;
+package solve.neetblinds75;
 
 class Contains_Duplicate {
     public boolean hasDuplicate(int[] nums) {
